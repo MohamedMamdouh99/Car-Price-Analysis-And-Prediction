@@ -1,1 +1,2 @@
 # Car-Price-Analysis-And-Prediction
+This project is an analysis of car data, the dataset includes several pieces of informations about the cars. The data cleaning process includes dropping unnecessary columns, filling missing values, removing duplicates, and handling outliers. Data visualization is also performed using various plots. These visualizations are used to answer questions about the car features specs which provide a better clarification for the data. Finally, machine learning models are built to predict the prices 
